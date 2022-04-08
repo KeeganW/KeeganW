@@ -1,9 +1,12 @@
-### Hi there 👋
+### About Me
+- I'm a Software Engineer in the Bay Area
+- I have a passion for board games
+- Check out some of my current projects
+  - [Pick Player](https://keeganw.github.io/pick-player/)
+  - [TI4 Map Generator](https://keeganw.github.io/ti4/)
+  - [Game Board](https://github.com/KeeganW/game-board)
 
 <!--
-**KeeganW/KeeganW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
